@@ -1,0 +1,8 @@
+DEBUT
+NUM:X[+10];
+FLOAT:X[+10];
+EXECUTION
+{
+
+}
+FIN
