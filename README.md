@@ -2,7 +2,6 @@
 EasyCode Compiler(Parser)
 Mini Compilateur,Projet de TP COMPIL.
 
-Projet de réalisation d’un mini compilateur pour un mini
 
 
 # Détails du projet
